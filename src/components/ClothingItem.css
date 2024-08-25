@@ -1,0 +1,32 @@
+.clothing-items-container {
+    margin: 20px auto;
+    max-width: 1200px;
+  }
+  
+  .clothing-items-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .clothing-item {
+    flex: 1 1 calc(33.333% - 20px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 8px;
+  }
+  
+  .clothing-item img {
+    width: 100%;
+    height: auto;
+    max-width: 200px;
+    border-radius: 8px;
+  }
+  
+  .item-name {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  

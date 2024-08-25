@@ -1,0 +1,89 @@
+/* .size-chart-container {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 1200px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.size-chart-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.size-chart-table th, .size-chart-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.size-chart-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+
+.size-chart-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.size-chart-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.confidence-score {
+    color: green;
+    font-weight: bold;
+}
+
+.no-data {
+    text-align: center;
+    color: #777;
+    font-style: italic;
+} */
+
+
+.size-chart-container {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 1200px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .size-chart-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .size-chart-table th, .size-chart-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  .size-chart-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  .size-chart-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .size-chart-table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .confidence-score {
+    color: green;
+    font-weight: bold;
+  }
+  
+  .no-data {
+    text-align: center;
+    color: #777;
+    font-style: italic;
+  }
+  
